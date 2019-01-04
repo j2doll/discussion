@@ -2,5 +2,5 @@
 
 - Leave me a issue to j2doll (aka Jay Two). [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
 - Personal page : [https://j2doll.github.io/](https://j2doll.github.io/)
-- Blog(Korean) : [https://j2doll.tistory.com](https://j2doll.tistory.com)
+
 
