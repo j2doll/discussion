@@ -1,6 +1,8 @@
-# Issues to j2doll
+# Issues to j2doll (aka Jay Two)
 
-- Leave me a issue to j2doll (aka Jay Two). [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
-- Personal page : [https://j2doll.github.io/](https://j2doll.github.io/)
+- Leave me a issue. :kr: 이슈 남겨 주세요.
+
+- [https://github.com/j2doll/discussion/issues](https://github.com/j2doll/discussion/issues)
+
 
 
