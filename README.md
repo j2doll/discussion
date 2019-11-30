@@ -5,6 +5,7 @@
 - :monkey: Hi! My alias name is j2doll. (aka Jay Two)
    - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two.
    
-- Here are the personal private issue repository that you would like to talk to me. 
+- Here are the personal private issue repository that you would like to talk to me. :kr: 개인적인 이슈를 남겨 주세요.
 
-- Please write the issues for public projects in the public project issues. (such as QXlsx, etc.)
+- Please write the issues for public projects in the public project issues. (such as QXlsx, etc.) :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. (QXlsx 등)
+
