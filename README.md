@@ -9,3 +9,5 @@
 
 - Please write the issues for public projects in the public project issues. (such as QXlsx, etc.) :kr: 공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. (QXlsx 등)
 
+- Personal introduction page : https://j2doll.github.io/  :kr: 개인 소개 페이지 : https://j2doll.github.io/README.ko.html
+  - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
