@@ -11,3 +11,8 @@
 
 - Personal introduction page : https://j2doll.github.io/  :kr: 개인 소개 페이지 : https://j2doll.github.io/README.ko.html
   - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
+
+- Sponsor :kr: 후원
+ - https://www.buymeacoffee.com/Yukrf5X
+ - https://www.patreon.com/j2doll
+ 
