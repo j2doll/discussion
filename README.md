@@ -13,6 +13,6 @@
   - Blog(Korean) :kr: 블로그(한글) : https://j2doll.tistory.com/
 
 - Sponsor :kr: 후원
- - https://www.buymeacoffee.com/Yukrf5X
- - https://www.patreon.com/j2doll
+  - https://www.buymeacoffee.com/Yukrf5X
+  - https://www.patreon.com/j2doll
  
