@@ -5,8 +5,7 @@
 
 - :mailbox: Leave me a issue. :kr: 이슈 남겨 주세요. 
   - [https://github.com/j2doll/discussion/issues
-
-- **I can not speak english well. Please speak very, very easy English.** :monkey:
+  - **I can not speak english well. Please speak very, very easy English.** :monkey:
 
 - Here are the personal private issue repository that you would like to talk to me.
   - :kr: 개인적인 이슈를 남겨 주세요.
