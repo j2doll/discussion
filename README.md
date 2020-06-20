@@ -1,11 +1,13 @@
 # Issues to j2doll
 
+- :monkey: Hi! My alias name is j2doll. (aka Jay Two)
+  - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
+
 - :mailbox: Leave me a issue. :kr: 이슈 남겨 주세요. 
   - [https://github.com/j2doll/discussion/issues
 
-- :monkey: Hi! My alias name is j2doll. (aka Jay Two)
-  - My name is Korean, and it is not easy for foreigners to pronounce it. So I recommend you call me Jay Two. 
-   
+- **I can not speak english well. Please speak very, very easy English.** :monkey:
+
 - Here are the personal private issue repository that you would like to talk to me.
   - :kr: 개인적인 이슈를 남겨 주세요.
 
