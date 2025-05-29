@@ -16,9 +16,8 @@
 - :kr: **공개 프로젝트의 이슈는 해당 프로젝트의 이슈란에 적어 주세요. 제발.
 ```   
 
-### Personal introduction page 
+### GitHub 
   - https://j2doll.github.io/
-  - :kr: 개인 소개 페이지 : https://j2doll.github.io/README.ko.html
   
 ### Blog(Korean) :kr: 
   - 블로그(한글) : https://j2doll.tistory.com/
